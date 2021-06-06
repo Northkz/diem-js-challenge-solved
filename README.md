@@ -1,2 +1,2 @@
-# diem-js-challenge-solved
-solved
+# diem-js-challenge
+Digital Innovations for Emerging Markets (DIEM) JavaScript Challenge
